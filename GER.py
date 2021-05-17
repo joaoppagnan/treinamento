@@ -1,1 +1,1 @@
-print("Sejam bem-vindes ao GER!")
+print("Sejam bem-vindes a UNICAMP!")
